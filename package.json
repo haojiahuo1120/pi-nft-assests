@@ -1,0 +1,19 @@
+{
+  "name": "pi-nft-assests",
+  "version": "1.0.0",
+  "description": "Pi Network NFT 展示项目 - 包含图片与元数据配置",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 2023",
+    "build": "echo \"Build completed successfully\" && exit 0"
+  },
+  "keywords": [
+    "pi",
+    "nft",
+    "pi-network",
+    "blockchain"
+  ],
+  "author": "haojiahuo",
+  "license": "MIT"
+}
+// 这是 Node.js 项目的配置文件，用于记录项目信息、管理脚本和依赖，不是 NFT 必需文件
