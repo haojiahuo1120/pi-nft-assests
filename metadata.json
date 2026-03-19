@@ -1,0 +1,15 @@
+{
+  "name": "Pi NFT #001",
+  "description": "My first Pi Testnet NFT",
+  "image": "https://haojiahuo1120.github.io/pi-nft-assests/haojiahuo.jpg",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Pi Testnet"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "haojiahuo"
+    }
+  ]
+}
